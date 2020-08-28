@@ -1,18 +1,18 @@
 ---
-title: "Duis Rio"
+title: "Dr Assa Aravindh"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Dr Assa Aravindh obtained her PhD in Physics from Indira Gandhi Centre for Atomic Research, Kalpakkam and is currently working at the University of Oulu, Finland."
 # teacher portrait
-image: "images/teachers/teacher-3.jpg"
+image: "images/teachers/assa.jpg"
 # course
-course: "Photography"
+course: "Physicist"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "Her previous experiences include postdoctoral appointments  at Institute of Mathematical Sciences, Chennai and  KAUST, Saudi Arabia, visiting scientist position at JNCASR, Bangalore as well as Researcher at University of Sharjah, UAE. Dr. Assa has published her research in several international peer-reviewed journals and is enthusiastic about scientific research and education."
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: ["Nanotechnology","Education","Research"]
 # contact info
 contact:
   # contact item loop
