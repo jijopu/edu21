@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Dr. Jijo P. Ulahannan is currently the Head of the Department of Physics at Government College Kasaragod."
 # teacher portrait
-image: "images/teachers/teacher-1.jpg"
+image: "images/teachers/jijo.jpg"
 # course
 course: "Physicist"
 # biography

@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Dr Suresh C Pillai is Head of Nanotechnology and Bio-Engineering Research Group, Institute of Technology Sligo and Associate Editor, the Chemical Engineering Journal"
 # teacher portrait
-image: "images/teachers/suresh.jpeg"
+image: "images/teachers/suresh.jpg"
 # course
 course: "Nanotechnology"
 # biography
