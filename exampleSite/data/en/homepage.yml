@@ -68,10 +68,7 @@ about:
   enable : true
   title : "About Education 21C"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "Education is the greatest tool available to mankind that can change lives and improve quality of life. We are a team of professionals from inside and outside of Kerala who are passionate about education and are volunteering to help the state build a world class education system. Students and teachers can find curated content in various topics on science, engineering, arts and humanities here that will help you learn and teach better."
   button:
     enable : true
     label : "Learn more"
