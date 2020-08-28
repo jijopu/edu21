@@ -4,36 +4,36 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Dr. Jijo P. Ulahannan is currently the Head of the Department of Physics at Government College Kasaragod."
 # teacher portrait
 image: "images/teachers/teacher-1.jpg"
 # course
-course: "Computer Science"
+course: "Physicist"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "He is a postgraduate in physics from Mahatma Gandhi University Kottayam. He has a PhD from the Cochin University of Science &amp; Technology. His interests are in theoretical and computational physics, education, science communication, open data &amp; information science, and education technology. He was a Short Term Visitor Fellow at the Homi Bhabha Centre for Science Education at TIFR Mumbai. He has been a TED Fellow since 2009 and is involved in two multidisciplinary collectives at present - one on documenting the COVID-19 pandemic in Kerala and the other on Innovation &amp; Product Development for Agriculture. He has been a member of a few curriculum development committees  at the state school and higher education. He has expertise in developing online learning platforms from scratch."
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: ["Computational Physics","Nanophotonics","Science Education","Open Data"]
 # contact info
 contact:
   # contact item loop
-  - name : "clarkmalik@email.com"
+  - name : "jijopu@ieee.org"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+    link : "mailto:jijopu@ieee.org"
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "+91 94951 22006"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel:+919495122006"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Jijo P Ulahannan"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Jijo P Ulahannan"
     icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : ""
 
   # contact item loop
   - name : "Clark Malik"
