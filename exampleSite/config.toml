@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+title = "Education 21C"
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
@@ -201,4 +201,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 Edu21C"
