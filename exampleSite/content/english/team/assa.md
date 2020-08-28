@@ -1,18 +1,18 @@
 ---
-title: "Dr Anjana S S"
+title: "Dr Assa Aravindh"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Post-doctoral Researcher at IIT Bombay."
+description : "Dr Assa Aravindh obtained her PhD in Physics from Indira Gandhi Centre for Atomic Research, Kalpakkam and is currently working at the University of Oulu, Finland."
 # teacher portrait
-image: "images/teachers/anjana.jpg"
+image: "images/team/assa.jpg"
 # course
-course: "Chemist"
+course: "Physicist"
 # biography
-bio: "Anjana received her PhD in Chemistry from IIT Madras and is currently working as a post-doctoral researcher at IIT Bombay. She is a science enthusiast and a freelance science writer."
+bio: "Her previous experiences include postdoctoral appointments  at Institute of Mathematical Sciences, Chennai and  KAUST, Saudi Arabia, visiting scientist position at JNCASR, Bangalore as well as Researcher at University of Sharjah, UAE. Dr. Assa has published her research in several international peer-reviewed journals and is enthusiastic about scientific research and education."
 # interest
-interest: ["Chemistry","Education","Human Computer Interfacing"]
+interest: ["Nanotechnology","Education","Research"]
 # contact info
 contact:
   # contact item loop

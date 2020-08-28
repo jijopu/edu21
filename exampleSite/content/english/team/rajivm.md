@@ -1,39 +1,40 @@
 ---
-title: "Dr Jijo P Ulahannan"
+title: "Dr Rajiv Mohanraj"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Dr. Jijo P. Ulahannan is currently the Head of the Department of Physics at Government College Kasaragod."
+description : "Dr Rajiv Mohanraj is a Consultant Neurologist in Manchester UK, and is an Honorary Senior Lecturer at the University of Manchester."
+
 # teacher portrait
-image: "images/teachers/jijo.jpg"
+image: "images/team/rajiv.jpg"
 # course
-course: "Physicist"
+course: "Neurologist"
 # biography
-bio: "He is a postgraduate in physics from Mahatma Gandhi University Kottayam. He has a PhD from the Cochin University of Science &amp; Technology. His interests are in theoretical and computational physics, education, science communication, open data &amp; information science, and education technology. He was a Short Term Visitor Fellow at the Homi Bhabha Centre for Science Education at TIFR Mumbai. He has been a TED Fellow since 2009 and is involved in two multidisciplinary collectives at present - one on documenting the COVID-19 pandemic in Kerala and the other on Innovation &amp; Product Development for Agriculture. He has been a member of a few curriculum development committees  at the state school and higher education. He has expertise in developing online learning platforms from scratch."
+bio: "Dr Rajiv Mohanraj completed his MBBS from TD Medical College Alappuzha, and PhD from the University of Glasgow, UK. He is a Fellow of the Royal College of Physicians and member of the Association of British Neurologists. He is involved with undergraduate and postgraduate medical education as well as research."
 # interest
-interest: ["Computational Physics","Nanophotonics","Science Education","Open Data"]
+interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
 contact:
   # contact item loop
-  - name : "jijopu@ieee.org"
+  - name : "clarkmalik@email.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:jijopu@ieee.org"
+    link : "mailto:clarkmalik@email.com"
 
   # contact item loop
-  - name : "+91 94951 22006"
+  - name : "+12 034 5876"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+919495122006"
+    link : "tel:+120345876"
 
   # contact item loop
-  - name : "Jijo P Ulahannan"
+  - name : "Clark Malik"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Jijo P Ulahannan"
+  - name : "Clark Malik"
     icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : ""
+    link : "#"
 
   # contact item loop
   - name : "Clark Malik"

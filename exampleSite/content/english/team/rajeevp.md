@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Dr Rajeev currently the Head of Novel Accelerator Science and Applications at RAL and leads Gemini, one of the most powerful laser facilities in the world. He is also the Deputy Technical Director of the £82M Extreme Photonics Applications Centre at RAL and the Head of the joint UK-India Innovation Centre (EPIC) at TIFR, Hyderabad."
 # teacher portrait
-image: "images/teachers/rajeev.jpg"
+image: "images/team/rajeev.jpg"
 # course
 course: "Physicist"
 # biography

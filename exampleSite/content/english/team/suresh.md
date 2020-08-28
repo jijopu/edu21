@@ -1,18 +1,18 @@
 ---
-title: "Dr Najeeb Kuzhiyil"
+title: "Dr Suresh C Pillai"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Dr Najeeb Kuzhiyil is currently a Staff Scientist at Exxon Mobil Corporation, USA."
+description : "Dr Suresh C Pillai is Head of Nanotechnology and Bio-Engineering Research Group, Institute of Technology Sligo and Associate Editor, the Chemical Engineering Journal"
 # teacher portrait
-image: "images/teachers/najeebk.jpg"
+image: "images/team/suresh.jpg"
 # course
-course: "Vlogging"
+course: "Nanotechnology"
 # biography
-bio: "An expert in fuels, lubricants, and engine combustion, Dr. Najeeb has a PhD. in Bio-renewable Resources from Iowa State University in the USA and a Master’s degree in Combustion and Energy from the University of Leeds in the United Kingdom, where he was a Shell Centenary-British Chevening Scholar. He is passionate about education and authored a book, Spirit of Engineering that explains the basics of engineering through a story. He has published his scientific research in many prestigious journals and holds many US patents. He lives in Houston, Texas."
+bio: "Dr Suresh C Pillai obtained his PhD in  Nanotechnology from Trinity College Dublin and then performed his postdoctoral research at California Institute of Technology (Caltech), USA. Upon completion of this appointment he returned to Trinity College Dublin as a Research Fellow before joining CREST-DIT as a Senior Scientist in April 2004. He joined Institute of Technology Sligo in 2013 as a senior lecturer in nanotechnology and currently heads the Nanotechnology and Bio-Engineering Research Group. He is the recipient of ‘Boyle-Higgins Award -2019’ from the Institute of Chemistry Ireland. He is an elected fellow of the UK’s Royal Microscopical Society (FRMS) and the Institute of Materials, Minerals and Mining (FIMMM). He has also completed an executive MBA from Dublin City University."
 # interest
-interest: ["Energy","Education","Engineering"]
+interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
 contact:
   # contact item loop

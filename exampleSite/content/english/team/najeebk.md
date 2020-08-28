@@ -1,18 +1,18 @@
 ---
-title: "Dr Assa Aravindh"
+title: "Dr Najeeb Kuzhiyil"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Dr Assa Aravindh obtained her PhD in Physics from Indira Gandhi Centre for Atomic Research, Kalpakkam and is currently working at the University of Oulu, Finland."
+description : "Dr Najeeb Kuzhiyil is currently a Staff Scientist at Exxon Mobil Corporation, USA."
 # teacher portrait
-image: "images/teachers/assa.jpg"
+image: "images/team/najeebk.jpg"
 # course
-course: "Physicist"
+course: "Vlogging"
 # biography
-bio: "Her previous experiences include postdoctoral appointments  at Institute of Mathematical Sciences, Chennai and  KAUST, Saudi Arabia, visiting scientist position at JNCASR, Bangalore as well as Researcher at University of Sharjah, UAE. Dr. Assa has published her research in several international peer-reviewed journals and is enthusiastic about scientific research and education."
+bio: "An expert in fuels, lubricants, and engine combustion, Dr. Najeeb has a PhD. in Bio-renewable Resources from Iowa State University in the USA and a Master’s degree in Combustion and Energy from the University of Leeds in the United Kingdom, where he was a Shell Centenary-British Chevening Scholar. He is passionate about education and authored a book, Spirit of Engineering that explains the basics of engineering through a story. He has published his scientific research in many prestigious journals and holds many US patents. He lives in Houston, Texas."
 # interest
-interest: ["Nanotechnology","Education","Research"]
+interest: ["Energy","Education","Engineering"]
 # contact info
 contact:
   # contact item loop
