@@ -8,7 +8,7 @@ description : "Dr Najeeb Kuzhiyil is currently a Staff Scientist at Exxon Mobil 
 # teacher portrait
 image: "images/team/najeebk.jpg"
 # course
-course: "Vlogging"
+course: "Engineer"
 # biography
 bio: "An expert in fuels, lubricants, and engine combustion, Dr. Najeeb has a PhD. in Bio-renewable Resources from Iowa State University in the USA and a Master’s degree in Combustion and Energy from the University of Leeds in the United Kingdom, where he was a Shell Centenary-British Chevening Scholar. He is passionate about education and authored a book, Spirit of Engineering that explains the basics of engineering through a story. He has published his scientific research in many prestigious journals and holds many US patents. He lives in Houston, Texas."
 # interest
