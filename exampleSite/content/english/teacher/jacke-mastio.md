@@ -1,18 +1,18 @@
 ---
-title: "Jacke Mastio"
+title: "Dr Anjana S S"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Post-doctoral Researcher at IIT Bombay."
 # teacher portrait
-image: "images/teachers/teacher-2.jpg"
+image: "images/teachers/anjana.jpg"
 # course
 course: "Computer Science"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "Anjana received her PhD in Chemistry from IIT Madras and is currently working as a post-doctoral researcher at IIT Bombay. She is a science enthusiast and a freelance science writer."
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: ["Chemistry","Education","Human Computer Interfacing"]
 # contact info
 contact:
   # contact item loop
