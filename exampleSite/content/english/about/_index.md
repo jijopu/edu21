@@ -6,18 +6,11 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Education is the greatest tool available to mankind that can change lives and improve quality of life. We are a team of professionals from inside and outside of Kerala who are passionate about education and are volunteering to help the state build a world class education system. Students and teachers can find curated content in various topics on science, engineering, arts and humanities here that will help you learn and teach better.."
 ---
 
 ## ABOUT OUR JOURNY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+Being a young democracy, India has been facing challenges in educating its massive population. The state of Kerala has done extremely well in access and equity. It's time we moved to the next level and transformed our education system into a world class one. Such a transformation requires substantial amount of resources in terms of money and expertise. In the wake of the NEP 2020, there are opportunities to bring about such changes and at the same time, there are immense challenges. 
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+We are bringing together a pool of talented and passionate people who are willing to provide their expertise and resources to help the state in this enormous task. To start with we have been creating curated content related to undergraduate curriculum to help teachers and students in online teaching and learning. We welcome you all to join us if you can create similar content. Let us work together to create an education system our young generation truly deserves in 21st Century. 
