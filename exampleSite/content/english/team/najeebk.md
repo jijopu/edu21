@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Dr Najeeb Kuzhiyil is currently a Staff Scientist at Exxon Mobil Corporation, USA."
-# teacher portrait
+# team member portrait
 image: "images/team/najeebk.jpg"
 # course
 course: "Engineer"
