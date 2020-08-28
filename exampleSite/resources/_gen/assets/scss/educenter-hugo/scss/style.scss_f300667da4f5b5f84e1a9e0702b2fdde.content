@@ -451,7 +451,7 @@ textarea.form-control {
   padding: 10px 20px;
   background: #f8f9fe; }
 
-.teacher-thumb-sm {
+.team-thumb-sm {
   height: 85px;
   width: 85px;
   object-fit: cover; }
@@ -739,13 +739,13 @@ link:focus,
     font-size: 40px; }
 
 /* /events */
-/* teacher */
-.teacher-info {
+/* team */
+.team-info {
   width: 70%;
   bottom: 0;
   right: 0; }
 
-/* /teacher */
+/* /team */
 /* footer */
 .newsletter {
   background-image: linear-gradient(to right, transparent 50%, #ffbc3b 50%);
