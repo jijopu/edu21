@@ -1,18 +1,18 @@
 ---
-title: "Alex Rook"
+title: "Dr Najeeb Kuzhiyil"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Dr Najeeb Kuzhiyil is currently a Staff Scientist at Exxon Mobil Corporation, USA."
 # teacher portrait
-image: "images/teachers/teacher-2.jpg"
+image: "images/teachers/najeeb.jpg"
 # course
 course: "Vlogging"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "An expert in fuels, lubricants, and engine combustion, Dr. Najeeb has a PhD. in Bio-renewable Resources from Iowa State University in the USA and a Master’s degree in Combustion and Energy from the University of Leeds in the United Kingdom, where he was a Shell Centenary-British Chevening Scholar. He is passionate about education and authored a book, Spirit of Engineering that explains the basics of engineering through a story. He has published his scientific research in many prestigious journals and holds many US patents. He lives in Houston, Texas."
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: ["Energy","Education","Engineering"]
 # contact info
 contact:
   # contact item loop

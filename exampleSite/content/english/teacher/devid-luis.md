@@ -1,16 +1,16 @@
 ---
-title: "Devid Luis"
+title: "Dr Suresh C Pillai"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Dr Suresh C Pillai is Head of Nanotechnology and Bio-Engineering Research Group, Institute of Technology Sligo and Associate Editor, the Chemical Engineering Journal"
 # teacher portrait
-image: "images/teachers/teacher-3.jpg"
+image: "images/teachers/suresh.jpg"
 # course
-course: "Humanities"
+course: "Nanotechnology"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "Dr Suresh C Pillai obtained his PhD in  Nanotechnology from Trinity College Dublin and then performed his postdoctoral research at California Institute of Technology (Caltech), USA. Upon completion of this appointment he returned to Trinity College Dublin as a Research Fellow before joining CREST-DIT as a Senior Scientist in April 2004. He joined Institute of Technology Sligo in 2013 as a senior lecturer in nanotechnology and currently heads the Nanotechnology and Bio-Engineering Research Group. He is the recipient of ‘Boyle-Higgins Award -2019’ from the Institute of Chemistry Ireland. He is an elected fellow of the UK’s Royal Microscopical Society (FRMS) and the Institute of Materials, Minerals and Mining (FIMMM). He has also completed an executive MBA from Dublin City University."
 # interest
 interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
