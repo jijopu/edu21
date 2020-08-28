@@ -8,7 +8,7 @@ description : "Post-doctoral Researcher at IIT Bombay."
 # teacher portrait
 image: "images/teachers/anjana.jpg"
 # course
-course: "Computer Science"
+course: "Chemist"
 # biography
 bio: "Anjana received her PhD in Chemistry from IIT Madras and is currently working as a post-doctoral researcher at IIT Bombay. She is a science enthusiast and a freelance science writer."
 # interest
