@@ -1,5 +1,5 @@
 ---
-title: "Jijo P Ulahannan, PhD"
+title: "Dr Jijo P Ulahannan"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
