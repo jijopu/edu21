@@ -20,37 +20,37 @@ languageCode = "ml-ml"
 languageName = "Ml"
 weight = 2
 [[menu.footer]]
-URL = "team"
-name = "team"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
+URL = "scholarship"
+name = "scholarship"
+weight = 1
 [[menu.footer]]
 URL = "event"
 name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "course"
-name = "course"
 weight = 2
+[[menu.footer]]
+URL = "notice"
+name = "notice"
+weight = 3
 [[menu.main]]
 URL = "team"
 name = "Team"
 weight = 3
 [[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[menu.main]]
 URL = "blog"
 name = "blog"
 weight = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "course"
+name = "course"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
